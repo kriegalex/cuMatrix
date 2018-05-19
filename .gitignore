@@ -34,3 +34,10 @@
 # Build folders
 build/
 cmake-build*/
+
+# visual studio
+.vs/
+.vscode/
+
+# jetbrains
+.idea
