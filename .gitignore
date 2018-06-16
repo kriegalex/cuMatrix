@@ -41,3 +41,4 @@ cmake-build*/
 
 # jetbrains
 .idea
+/CMakeSettings.json
